@@ -20,8 +20,8 @@ Frontend:
 
 ## How to Run Locally using terminal:
 - Prerequisites:
-i) Java 17 or higher
-ii) Maven
+1. Java 17 or higher
+2. Maven
 
 - Steps:
 1. Clone this repository: git clone https://github.com/ak05ak/WebCalculator.git
