@@ -24,8 +24,8 @@ Frontend:
 2. Maven
 
 - Steps:
-1. Clone this repository: git clone https://github.com/ak05ak/WebCalculator.git
-2. Go inside project: cd WebCalculator
+1. Clone this repository: git clone https://github.com/ak05ak/SpringBootWebCalculator.git
+2. Go inside project: cd SpringBootWebCalculator/WebCalculator/
 3. Build the project: mvn clean package
 4. Run the application: mvn spring-boot:run
 5. Open your browser and navigate to: http://localhost:8080
